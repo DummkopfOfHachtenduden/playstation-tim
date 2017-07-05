@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaystationTIM", "PlaystationTIM\PlaystationTIM.csproj", "{297DE205-F1BC-41CD-BCC6-F93F97AC37FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaystationTIMConvert", "PlaystationTIMConvert\PlaystationTIMConvert.csproj", "{DEC8D324-EF83-4700-BC80-4BB515D3DA8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{297DE205-F1BC-41CD-BCC6-F93F97AC37FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{297DE205-F1BC-41CD-BCC6-F93F97AC37FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{297DE205-F1BC-41CD-BCC6-F93F97AC37FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC8D324-EF83-4700-BC80-4BB515D3DA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC8D324-EF83-4700-BC80-4BB515D3DA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC8D324-EF83-4700-BC80-4BB515D3DA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC8D324-EF83-4700-BC80-4BB515D3DA8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

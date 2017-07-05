@@ -2,9 +2,9 @@
 {
     public enum TimTransparency
     {
+        No,
         Full,
         Black,
         Semi,
-        No,        
     }
 }
